@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'didong'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D519B4A7657F4F8C841D886858005886 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4086671A9E914A308F6D9A64DBE87481 }}
           package: .
